@@ -51,7 +51,8 @@ This Power BI project analyzes pizza sales data to uncover business insights, sa
 Ronak Fiza
 
 ## Project Preview
+<img width="1286" height="722" alt="image" src="https://github.com/user-attachments/assets/a0ec58c0-07f7-4b90-95ca-f544f018dd32" />
+<img width="1277" height="727" alt="image" src="https://github.com/user-attachments/assets/8b49626f-411b-43f7-87a3-d37879bfd2c8" />
 
 
 
-(Add dashboard screenshots here)
